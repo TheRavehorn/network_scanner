@@ -1,2 +1,2 @@
-# network_scanner
+# Network Scanner
 Simple Network Scanner
