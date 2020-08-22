@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+import subprocess
+import time
+
 try:
     import scapy
 except ModuleNotFoundError:
